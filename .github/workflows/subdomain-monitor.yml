@@ -56,7 +56,7 @@ jobs:
       # --------------------------------------------------
       - name: Enumerate subdomains
         env:
-          TARGET_DOMAIN: example.com
+          TARGET_DOMAIN: unisys.com
         run: |
           echo "[*] Enumerating: $TARGET_DOMAIN"
 
