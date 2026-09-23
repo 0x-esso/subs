@@ -1,0 +1,161 @@
+name: New Subdomain Monitor
+
+on:
+  schedule:
+    # Every day at 00:00 UTC
+    - cron: "0 0 * * *"
+
+  # Allows manual execution from GitHub Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      # --------------------------------------------------
+      # 1. Checkout repository
+      # --------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # --------------------------------------------------
+      # 2. Install Go
+      # --------------------------------------------------
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.23"
+
+      # --------------------------------------------------
+      # 3. Install Subfinder
+      # --------------------------------------------------
+      - name: Install Subfinder
+        run: |
+          go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+
+          echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
+
+      # --------------------------------------------------
+      # 4. Create directories
+      # --------------------------------------------------
+      - name: Prepare directories
+        run: |
+          mkdir -p data
+          mkdir -p results
+
+          touch data/known_subdomains.txt
+
+      # --------------------------------------------------
+      # 5. Enumerate subdomains
+      # --------------------------------------------------
+      - name: Enumerate subdomains
+        env:
+          TARGET_DOMAIN: example.com
+        run: |
+          echo "[*] Enumerating: $TARGET_DOMAIN"
+
+          subfinder \
+            -d "$TARGET_DOMAIN" \
+            -silent \
+            -all \
+            -o results/current.txt
+
+          # Normalize and deduplicate
+          sed 's/\r$//' results/current.txt \
+            | tr '[:upper:]' '[:lower:]' \
+            | sed 's/\.$//' \
+            | sort -u \
+            > results/current_clean.txt
+
+          echo "[+] Current subdomains:"
+          cat results/current_clean.txt
+
+      # --------------------------------------------------
+      # 6. Find NEW subdomains only
+      # --------------------------------------------------
+      - name: Detect new subdomains
+        run: |
+          sort -u data/known_subdomains.txt > /tmp/known.txt
+          sort -u results/current_clean.txt > /tmp/current.txt
+
+          comm -13 /tmp/known.txt /tmp/current.txt \
+            > results/new_subdomains.txt
+
+          echo ""
+          echo "======================================"
+          echo "        NEW SUBDOMAINS"
+          echo "======================================"
+
+          if [ -s results/new_subdomains.txt ]; then
+            cat results/new_subdomains.txt
+
+            echo ""
+            echo "[+] New subdomains found:"
+            wc -l < results/new_subdomains.txt
+          else
+            echo "[-] No new subdomains found."
+          fi
+
+      # --------------------------------------------------
+      # 7. Update baseline
+      # --------------------------------------------------
+      - name: Update baseline
+        run: |
+          cat results/current_clean.txt \
+            >> data/known_subdomains.txt
+
+          sort -u data/known_subdomains.txt \
+            -o data/known_subdomains.txt
+
+      # --------------------------------------------------
+      # 8. Create timestamped report
+      # --------------------------------------------------
+      - name: Create report
+        run: |
+          {
+            echo "New Subdomain Monitor"
+            echo "====================="
+            echo ""
+            echo "Date: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            echo ""
+
+            if [ -s results/new_subdomains.txt ]; then
+              echo "New subdomains:"
+              echo ""
+              cat results/new_subdomains.txt
+            else
+              echo "No new subdomains found."
+            fi
+          } > results/report.txt
+
+      # --------------------------------------------------
+      # 9. Upload results as GitHub Artifact
+      # --------------------------------------------------
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        with:
+          name: subdomain-results-${{ github.run_number }}
+          path: results/
+
+      # --------------------------------------------------
+      # 10. Commit updated baseline
+      # --------------------------------------------------
+      - name: Commit updated baseline
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/known_subdomains.txt
+
+          if git diff --cached --quiet; then
+            echo "[-] No baseline changes."
+          else
+            git commit -m "chore: update subdomain baseline"
+            git push
+          fi
