@@ -7573,6 +7573,7 @@ mars-chakra.elevate.unisys.com
 masterapi.ito.unisys.com
 mcd-demo.sea.unisys.com
 mcd-us-dev.sea.unisys.com
+mcd-us-test.sea.unisys.com
 mcp20.dollimot.ap.uis.unisys.com
 mcp20.nz-dollimoret-3.ap.uis.unisys.com
 mcp22.dollimot.ap.uis.unisys.com
@@ -8413,7 +8414,9 @@ usslcshv661v.gois.ito.unisys.com
 usslcshv661v.ito.unisys.com
 usslvnglsq0001.na.uis.unisys.com
 usslvnglsq0002.na.uis.unisys.com
+usslvnglsq1000v.na.uis.unisys.com
 usslvnglsq1001v.na.uis.unisys.com
+usslvnglsq1002v.na.uis.unisys.com
 ustr-alertmgr-1.na.uis.unisys.com
 ustr-ansible-1.na.uis.unisys.com
 ustr-bitbucket-1.na.uis.unisys.com
