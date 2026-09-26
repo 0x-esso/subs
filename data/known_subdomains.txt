@@ -6501,6 +6501,7 @@ clicktest.ito.unisys.com
 client1-vblock.ito.unisys.com
 client2-vblock.ito.unisys.com
 clients-us-demo.sea.unisys.com
+clients-us-demo.uia.unisys.com
 clintprod83.ito.unisys.com
 cloudcadi-dev.csio.unisys.com
 cloudcadi.csio.unisys.com
