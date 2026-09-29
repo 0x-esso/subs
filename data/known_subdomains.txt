@@ -161,6 +161,7 @@ inbound-sg.digitalocean.com
 inbound.digitalocean.com
 inference-modelcatalog.mcp.digitalocean.com
 info.digitalocean.com
+insights.digitalocean.com
 insights.mcp.digitalocean.com
 intern.digitalocean.com
 internal.digitalocean.com
