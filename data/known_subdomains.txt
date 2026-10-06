@@ -246,6 +246,7 @@ marketplace-staging-utility.digitalocean.com
 marketplace-staging.digitalocean.com
 marketplace.digitalocean.com
 marketplace.mcp.digitalocean.com
+mcp.digitalocean.com
 mirrors.digitalocean.com
 monitoring.digitalocean.com
 networking.mcp.digitalocean.com
