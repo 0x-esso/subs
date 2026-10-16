@@ -37,6 +37,7 @@
 4t3vouz8f264ru1sa.digitalocean.com
 63.45.digitalocean.com
 7marketplace.digitalocean.com
+82.digitalocean.com
 8marketplace-staging-grpc-blr1.digitalocean.com
 91-143-81-115.digitalocean.com
 91-143-81-120.bud.digitalocean.com
@@ -58,6 +59,7 @@ ae1.us-dal01-edge2.digitalocean.com
 ae1.us-sjc01-edge1.digitalocean.com
 ae12.us-sjc01-edge2.digitalocean.com
 ae120-3101.nyc3-a0-core2.digitalocean.com
+ae12a.us-sjc01-edge2.digitalocean.com
 ae19.sg-sin01-edge2.digitalocean.com
 ae19s.sg-sin01-edge2.digitalocean.com
 ae20.ams3-edge1.digitalocean.com
@@ -260,6 +262,7 @@ cesarc.digitalocean.com
 cf-ssl40656-protected-www.digitalocean.com
 cf-ssl40656-protected-wwwq.digitalocean.com
 cfaccesspoc.digitalocean.com
+cfaccesspocy.digitalocean.com
 charliebrown.digitalocean.com
 chat.assets.digitalocean.com
 clarus.digitalocean.com
@@ -303,6 +306,7 @@ console-ams4a.digitalocean.com
 console-blr1.digitalocean.com
 console-blr1c.digitalocean.com
 console-fra1.digitalocean.com
+console-fra1o.digitalocean.com
 console-lon1.digitalocean.com
 console-lon1m.digitalocean.com
 console-nbg1.digitalocean.com
@@ -339,6 +343,7 @@ database-logs.digitalocean.com
 database-logss.digitalocean.com
 databases.mcp.digitalocean.com
 dawno.digitalocean.com
+dawnoc.digitalocean.com
 dcos.digitalocean.com
 dctrack-dev.internal.digitalocean.com
 dctrack-dev.nyc3.internal.digitalocean.com
@@ -433,6 +438,7 @@ email.comms.digitalocean.com
 email.digitalocean.com
 email.news.digitalocean.com
 email.support.digitalocean.com
+emails.digitalocean.com
 emaily.news.digitalocean.com
 emg.digitalocean.com
 emwrb.digitalocean.com
@@ -440,6 +446,7 @@ en.digitalocean.com
 enavle.digitalocean.com
 entelolink.digitalocean.com
 entelolink5.digitalocean.com
+entelomailm.digitalocean.com
 enterpriseenrollment.digitalocean.com
 enterpriseenrollmentg.digitalocean.com
 envelope.digitalocean.com
@@ -453,6 +460,7 @@ eqix-sv9.digitalocean.com
 es01.digitalocean.com
 es2.digitalocean.com
 et-4-0-0.ams3-edge1.digitalocean.com
+et-4-0-0.ams3-edge2.digitalocean.com
 et-4-1-0.ams3-edge2.digitalocean.com
 evangelism.digitalocean.com
 evangelisma.digitalocean.com
@@ -478,6 +486,7 @@ fileso.digitalocean.com
 fimbrethil.digitalocean.com
 fimbrethilm.digitalocean.com
 floyd.digitalocean.com
+floyde.digitalocean.com
 fls.digitalocean.com
 flse.digitalocean.com
 fms1.digitalocean.com
@@ -508,6 +517,7 @@ garjanisbackups.digitalocean.com
 gate1.digitalocean.com
 gate1c.digitalocean.com
 gateway.cloud.digitalocean.com
+gaya88-sgp1-cdn.digitalocean.com
 gcp.cloud.digitalocean.com
 genai-batchinference.mcp.digitalocean.com
 genai-custom-models.mcp.digitalocean.com
@@ -538,6 +548,8 @@ hefestus.digitalocean.com
 help.digitalocean.com
 help.nyc3.internal.digitalocean.com
 helpdesk.digitalocean.com
+hns1.digitalocean.com
+hns2.digitalocean.com
 hns3.digitalocean.com
 hode.digitalocean.com
 hodec.digitalocean.com
@@ -590,6 +602,7 @@ ipv4c.speedtest-nyc2.digitalocean.com
 ipv4e.speedtest-nyc3.digitalocean.com
 ipv4i.speedtest-ams2.digitalocean.com
 ipv4i.speedtest-fra1.digitalocean.com
+ipv4s.speedtest-sgp1.digitalocean.com
 ipv4u.speedtest-nyc1.digitalocean.com
 ipv6.speedtest-ams2.digitalocean.com
 ipv6.speedtest-ams3.digitalocean.com
@@ -605,6 +618,7 @@ ipv6u.speedtest-sgp1.digitalocean.com
 ipv6y.speedtest-fra1.digitalocean.com
 ir.digitalocean.com
 irc.digitalocean.com
+ircu.digitalocean.com
 isjik.digitalocean.com
 it.digitalocean.com
 it143-110.mem.digitalocean.com
@@ -719,6 +733,7 @@ marketplace-proxy-fra1.digitalocean.com
 marketplace-proxy-nyc1.digitalocean.com
 marketplace-proxy-sfo2.digitalocean.com
 marketplace-proxy.digitalocean.com
+marketplace-proxyi.digitalocean.com
 marketplace-staging-frontend-blr1.digitalocean.com
 marketplace-staging-frontend-blr1c.digitalocean.com
 marketplace-staging-frontend-fra1.digitalocean.com
@@ -873,6 +888,7 @@ ns13.digitalocean.com
 ns14.digitalocean.com
 ns15.digitalocean.com
 ns16.digitalocean.com
+ns16o.digitalocean.com
 ns195.digitalocean.com
 ns197.digitalocean.com
 ns1alt.digitalocean.com
@@ -913,6 +929,7 @@ ns64.digitalocean.com
 ns66.digitalocean.com
 ns7.digitalocean.com
 ns75.digitalocean.com
+ns76.digitalocean.com
 ns8.digitalocean.com
 ns8g.digitalocean.com
 ns9.digitalocean.com
@@ -960,6 +977,7 @@ nyc2g.mirrortest.digitalocean.com
 nyc2k.sonar.digitalocean.com
 nyc2m.mirrors.digitalocean.com
 nyc2o.internal.digitalocean.com
+nyc2vnc01.digitalocean.com
 nyc3-a0-core2.digitalocean.com
 nyc3-edge1.digitalocean.com
 nyc3-edge2.digitalocean.com
@@ -1008,6 +1026,7 @@ outbound-sg.digitalocean.com
 outreach.digitalocean.com
 owa.anchor.digitalocean.com
 packer-debian-7-amd64.digitalocean.com
+packer-debian-7-amd64a.digitalocean.com
 packer-debian-7-i386.digitalocean.com
 packer-debian-8-amd64.digitalocean.com
 pages.news.digitalocean.com
@@ -1060,6 +1079,7 @@ prod-berksapi01.nyc2.internal.digitalocean.com
 prod-billing01.nyc2.internal.digitalocean.com
 prod-billing01i.nyc2.internal.digitalocean.com
 prod-billingworker01.nyc2.internal.digitalocean.com
+prod-billingworker01u.nyc2.internal.digitalocean.com
 prod-billingworker02.nyc2.internal.digitalocean.com
 prod-billingworker02m.nyc2.internal.digitalocean.com
 prod-billingworker03.nyc2.internal.digitalocean.com
@@ -1067,6 +1087,7 @@ prod-billingworker04.nyc2.internal.digitalocean.com
 prod-billingworker04u.nyc2.internal.digitalocean.com
 prod-billingworker05.nyc2.internal.digitalocean.com
 prod-billingworker06.nyc2.internal.digitalocean.com
+prod-billingworker06m.nyc2.internal.digitalocean.com
 prod-billingworker07.nyc2.internal.digitalocean.com
 prod-billingworker07s.nyc2.internal.digitalocean.com
 prod-billingworker08.nyc2.internal.digitalocean.com
@@ -1203,6 +1224,7 @@ prod-opslb01.sgp1.internal.digitalocean.com
 prod-opslb01m.nbg1.internal.digitalocean.com
 prod-opslb01s.ams4.internal.digitalocean.com
 prod-opslb01w.sfo1.internal.digitalocean.com
+prod-opslb01y.ams2.internal.digitalocean.com
 prod-opslb01y.sgp1.internal.digitalocean.com
 prod-opslb02.nyc2.internal.digitalocean.com
 prod-opslb02m.nyc2.internal.digitalocean.com
@@ -1516,6 +1538,7 @@ us-dal01-edge2.digitalocean.com
 us-scz01-edge1.digitalocean.com
 us-scz01-edge2.digitalocean.com
 us-sjc01-edge1.digitalocean.com
+us-sjc01-edge2.digitalocean.com
 us.digitalocean.com
 usny.digitalocean.com
 usnyc.digitalocean.com
@@ -1598,6 +1621,7 @@ www.220-nls.digitalocean.com
 www.220-ns1.digitalocean.com
 www.220-pctuneuphh.digitalocean.com
 www.220-redbook.digitalocean.com
+www.220-snaproll.digitalocean.com
 www.220-thewispy.digitalocean.com
 www.220-tlc.digitalocean.com
 www.220-uberclonescript.digitalocean.com
@@ -1629,6 +1653,7 @@ www.defaultdropletu-nologin-zora-7gn8i3w.dev0.internal.digitalocean.com
 www.defaultphysical-nologin-zora-77a2jtb.dev0.internal.digitalocean.com
 www.developers.digitalocean.com
 www.digitalocean.com
+www.docs.digitalocean.com
 www.doks.digitalocean.com
 www.email.support.digitalocean.com
 www.envelope.digitalocean.com
@@ -1639,6 +1664,7 @@ www.go.digitalocean.com
 www.godigital.digitalocean.com
 www.hacktoberfest.digitalocean.com
 www.icingadistr01.dev1.internal.digitalocean.com
+www.ideas.digitalocean.com
 www.insanbsi.digitalocean.com
 www.investors.digitalocean.com
 www.itindustry.digitalocean.com
