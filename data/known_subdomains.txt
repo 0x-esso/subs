@@ -41,6 +41,7 @@
 8marketplace-staging-grpc-blr1.digitalocean.com
 91-143-81-115.digitalocean.com
 91-143-81-120.bud.digitalocean.com
+91-143-81-120e.bud.digitalocean.com
 91-143-81-128.mvk.digitalocean.com
 91-143-81-128s.mvk.digitalocean.com
 98.63.45.digitalocean.com
@@ -213,6 +214,7 @@ beta.digitalocean.com
 betastatus.digitalocean.com
 betau.digitalocean.com
 billing-inbound.digitalocean.com
+biz.digitalocean.com
 bizi.digitalocean.com
 blocked-ns1.digitalocean.com
 blocked-ns2.digitalocean.com
@@ -245,6 +247,7 @@ bundle-ether40-102c.us-scz01-edge2.digitalocean.com
 bundle-ether40-102i.us-scz01-edge1.digitalocean.com
 business.digitalocean.com
 bwsr.digitalocean.com
+bwsrm.digitalocean.com
 ca.digitalocean.com
 careers.digitalocean.com
 cau.digitalocean.com
@@ -656,6 +659,7 @@ ldappass.digitalocean.com
 lealho.digitalocean.com
 lealhost.digitalocean.com
 liferaft-cdn.digitalocean.com
+ljx.digitalocean.com
 lns3.digitalocean.com
 localdev.internal.digitalocean.com
 localdevs.internal.digitalocean.com
@@ -759,6 +763,7 @@ marketplace-staging-prometheus-blr1a.digitalocean.com
 marketplace-staging-prometheus-fra1.digitalocean.com
 marketplace-staging-prometheus-fra1i.digitalocean.com
 marketplace-staging-prometheus-nyc1.digitalocean.com
+marketplace-staging-prometheus-nyc1i.digitalocean.com
 marketplace-staging-prometheus-sfo2.digitalocean.com
 marketplace-staging-proxy-blr1.digitalocean.com
 marketplace-staging-proxy-blr1m.digitalocean.com
@@ -1194,6 +1199,7 @@ prod-lb01-object01s.sgp1.internal.digitalocean.com
 prod-logstashes01.nyc2.internal.digitalocean.com
 prod-logstashes01s.nyc2.internal.digitalocean.com
 prod-logstashes02.nyc2.internal.digitalocean.com
+prod-logstashes02m.nyc2.internal.digitalocean.com
 prod-logstashes03.nyc2.internal.digitalocean.com
 prod-logstashes03i.nyc2.internal.digitalocean.com
 prod-logstashindex01.nyc2.internal.digitalocean.com
@@ -1300,6 +1306,7 @@ prod-www-community02s.nyc2.internal.digitalocean.com
 prod-www-community03.nyc2.internal.digitalocean.com
 prod-www-community03k.nyc2.internal.digitalocean.com
 prod-www06.nyc2.internal.digitalocean.com
+projecthub-ns1.digitalocean.com
 projecthub-ns2.digitalocean.com
 projecthub-ns3.digitalocean.com
 prometheus.assets.digitalocean.com
