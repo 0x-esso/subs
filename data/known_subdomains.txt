@@ -119,6 +119,7 @@ ae31.nyc2-edge2.digitalocean.com
 ae31.nyc3-edge1.digitalocean.com
 ae4-3101.sgp1-edge1.digitalocean.com
 ae4-3101.sgp1-edge2.digitalocean.com
+ae4-3101a.sgp1-edge2.digitalocean.com
 ae40.ams3-edge1.digitalocean.com
 ae40.ams3-edge2.digitalocean.com
 ae40u.ams3-edge2.digitalocean.com
@@ -126,6 +127,7 @@ ae5-3101.sgp1-edge1.digitalocean.com
 ae5-3101.sgp1-edge2.digitalocean.com
 ae5-3101o.sgp1-edge1.digitalocean.com
 ae8.sg-sin01-edge2.digitalocean.com
+aetherbones.digitalocean.com
 agent.digitalocean.com
 agentg.digitalocean.com
 aiglos.digitalocean.com
@@ -186,6 +188,7 @@ artifactory-staging.internal.digitalocean.com
 artifactory-standby.internal.digitalocean.com
 artifactory-standbye.internal.digitalocean.com
 artifactory.internal.digitalocean.com
+artifactoryy.internal.digitalocean.com
 ase.digitalocean.com
 asets.digitalocean.com
 assets-cdn.digitalocean.com
@@ -452,6 +455,7 @@ entelolink5.digitalocean.com
 entelomailm.digitalocean.com
 enterpriseenrollment.digitalocean.com
 enterpriseenrollmentg.digitalocean.com
+enterpriseregistration.digitalocean.com
 envelope.digitalocean.com
 envelope1.digitalocean.com
 epitychia-it-solutions.digitalocean.com
@@ -485,6 +489,7 @@ faas-tor1-70ca848e.serverless.serverless-ingress-production.digitalocean.com
 fbxrrors.digitalocean.com
 feedback.digitalocean.com
 feellikewinner.digitalocean.com
+files.digitalocean.com
 fileso.digitalocean.com
 fimbrethil.digitalocean.com
 fimbrethilm.digitalocean.com
@@ -493,6 +498,7 @@ floyde.digitalocean.com
 fls.digitalocean.com
 flse.digitalocean.com
 fms1.digitalocean.com
+fms1a.digitalocean.com
 fms2.digitalocean.com
 fms2e.digitalocean.com
 forum.digitalocean.com
@@ -508,6 +514,7 @@ fra1c.mirrors.digitalocean.com
 fra1g.internal.digitalocean.com
 fra1q.sonar.digitalocean.com
 fra2-edge1.digitalocean.com
+fra2-edge1a.digitalocean.com
 fulltankng.digitalocean.com
 fulltankngc.digitalocean.com
 functions.mcp.digitalocean.com
@@ -675,6 +682,7 @@ lon1.mirrors.digitalocean.com
 lon1.sonar.digitalocean.com
 lon1e.internal.digitalocean.com
 lon1i.mirrors.digitalocean.com
+lon1o.sonar.digitalocean.com
 looker.digitalocean.com
 looker.internal.digitalocean.com
 lookitthat.digitalocean.com
@@ -895,6 +903,7 @@ ns15.digitalocean.com
 ns16.digitalocean.com
 ns16o.digitalocean.com
 ns195.digitalocean.com
+ns196.digitalocean.com
 ns197.digitalocean.com
 ns1alt.digitalocean.com
 ns1ns3.digitalocean.com
@@ -1192,6 +1201,7 @@ prod-icingadistr02.nyc3.internal.digitalocean.com
 prod-int-spaces.fra1.internal.digitalocean.com
 prod-int-spaces.nyc3.internal.digitalocean.com
 prod-int-spaces.sfo2.internal.digitalocean.com
+prod-int-spacesa.nyc3.internal.digitalocean.com
 prod-int-spacese.sfo2.internal.digitalocean.com
 prod-int-spaceso.fra1.internal.digitalocean.com
 prod-lb01-object01.sgp1.internal.digitalocean.com
@@ -1384,6 +1394,7 @@ sevenkoncepts.digitalocean.com
 severus.digitalocean.com
 sexns1.digitalocean.com
 sexns2.digitalocean.com
+sexns3.digitalocean.com
 sfo1-edge1.digitalocean.com
 sfo1-edge2.digitalocean.com
 sfo1.digitalocean.com
@@ -1472,6 +1483,7 @@ stage-es01.nyc2.internal.digitalocean.com
 stage-mysql01.nyc2.internal.digitalocean.com
 stage-mysql01u.nyc2.internal.digitalocean.com
 stage-postgresql01.nyc2.internal.digitalocean.com
+stage-postgresql01c.nyc2.internal.digitalocean.com
 stage-rdnsdoh-sfo3.digitalocean.com
 stage-statswww01.nyc2.internal.digitalocean.com
 stage-statswww01g.nyc2.internal.digitalocean.com
@@ -1658,10 +1670,12 @@ www.dctrack-dev.nyc3.internal.digitalocean.com
 www.defaultdropletu-nologin-dockerdesktop-e5imkwi.dev0.internal.digitalocean.com
 www.defaultdropletu-nologin-zora-7gn8i3w.dev0.internal.digitalocean.com
 www.defaultphysical-nologin-zora-77a2jtb.dev0.internal.digitalocean.com
+www.deploy.digitalocean.com
 www.developers.digitalocean.com
 www.digitalocean.com
 www.docs.digitalocean.com
 www.doks.digitalocean.com
+www.dpc.digitalocean.com
 www.email.support.digitalocean.com
 www.envelope.digitalocean.com
 www.envelope1.digitalocean.com
@@ -1776,6 +1790,7 @@ wwwwa.digitalocean.com
 wwwy.cloudsupport-full-staging.digitalocean.com
 xe-1-0-0.lab1-edge1.digitalocean.com
 xe-1-0-0.lab1-edge2.digitalocean.com
+xe-2-0-0.lab1-edge1.digitalocean.com
 xe-7-0-11.nyc3-edge1.digitalocean.com
 xe-7-0-16.nyc3-edge2.digitalocean.com
 xmen.digitalocean.com
