@@ -337,6 +337,7 @@ cpanel-whm-s-1vcpu-1gb-nyc1-01.digitalocean.com
 cpanel.digitalocean.com
 crypt502.digitalocean.com
 cs.digitalocean.com
+cs9.digitalocean.com
 ct04.digitalocean.com
 ctrlreply.digitalocean.com
 cuttlefish.digitalocean.com
@@ -424,6 +425,7 @@ droplets.mcp.digitalocean.com
 dropletsearch.digitalocean.com
 dropletsearchi.digitalocean.com
 ds1.digitalocean.com
+ds1e.digitalocean.com
 ds2.digitalocean.com
 ds2o.digitalocean.com
 ds3.digitalocean.com
@@ -580,6 +582,7 @@ icingadistr01.dev1.internal.digitalocean.com
 ideas.digitalocean.com
 ideasi.digitalocean.com
 iliev.digitalocean.com
+ilievq.digitalocean.com
 img.assets.digitalocean.com
 inbound-sg.digitalocean.com
 inbound.digitalocean.com
@@ -662,6 +665,7 @@ lab-codd-admin.sfo3.internal.digitalocean.com
 lab1-edge1.digitalocean.com
 lab1-edge2.digitalocean.com
 lb.digitalocean.com
+lbg.digitalocean.com
 ldappass.digitalocean.com
 lealho.digitalocean.com
 lealhost.digitalocean.com
@@ -1370,6 +1374,7 @@ sammycam.internal.digitalocean.com
 sarge.digitalocean.com
 sargek.digitalocean.com
 sbc.digitalocean.com
+sbci.digitalocean.com
 scim.digitalocean.com
 secondsite.digitalocean.com
 secure.digitalocean.com
@@ -1680,6 +1685,7 @@ www.email.support.digitalocean.com
 www.envelope.digitalocean.com
 www.envelope1.digitalocean.com
 www.events.digitalocean.com
+www.example.dev.internal.digitalocean.com
 www.github.internal.digitalocean.com
 www.go.digitalocean.com
 www.godigital.digitalocean.com
@@ -1690,6 +1696,7 @@ www.insanbsi.digitalocean.com
 www.investors.digitalocean.com
 www.itindustry.digitalocean.com
 www.kloxong-cloud001.digitalocean.com
+www.kloxong-cloud002.digitalocean.com
 www.kloxong-php8.digitalocean.com
 www.kloxongtestphpini.digitalocean.com
 www.kontrol.digitalocean.com
