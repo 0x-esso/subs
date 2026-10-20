@@ -626,6 +626,7 @@ ipv6.speedtest-sfo1.digitalocean.com
 ipv6.speedtest-sgp1.digitalocean.com
 ipv6a.speedtest-sfo1.digitalocean.com
 ipv6g.speedtest-ams2.digitalocean.com
+ipv6i.speedtest-lon1.digitalocean.com
 ipv6u.speedtest-ams3.digitalocean.com
 ipv6u.speedtest-sgp1.digitalocean.com
 ipv6y.speedtest-fra1.digitalocean.com
@@ -936,6 +937,7 @@ ns33.digitalocean.com
 ns33i.digitalocean.com
 ns3alt.digitalocean.com
 ns3g.digitalocean.com
+ns3w.digitalocean.com
 ns4.digitalocean.com
 ns4.dns1.digitalocean.com
 ns4s.digitalocean.com
@@ -1104,6 +1106,7 @@ prod-billingworker03.nyc2.internal.digitalocean.com
 prod-billingworker04.nyc2.internal.digitalocean.com
 prod-billingworker04u.nyc2.internal.digitalocean.com
 prod-billingworker05.nyc2.internal.digitalocean.com
+prod-billingworker05a.nyc2.internal.digitalocean.com
 prod-billingworker06.nyc2.internal.digitalocean.com
 prod-billingworker06m.nyc2.internal.digitalocean.com
 prod-billingworker07.nyc2.internal.digitalocean.com
@@ -1126,6 +1129,7 @@ prod-codd-admin.sfo3.internal.digitalocean.com
 prod-codd-admin.sgp1.internal.digitalocean.com
 prod-codd-admin.syd1.internal.digitalocean.com
 prod-codd-admin.tor1.internal.digitalocean.com
+prod-codd-adminc.blr1.internal.digitalocean.com
 prod-codd-adminc.syd1.internal.digitalocean.com
 prod-codd-adming.sfo1.internal.digitalocean.com
 prod-codd-adming.sfo2.internal.digitalocean.com
@@ -1413,6 +1417,7 @@ sfo2-edge2.digitalocean.com
 sfo2-sslvpn1.internal.digitalocean.com
 sfo2-sslvpn1s.internal.digitalocean.com
 sfo2-sslvpn2.internal.digitalocean.com
+sfo2-sslvpn2a.internal.digitalocean.com
 sfo2-sslvpn3.internal.digitalocean.com
 sfo2-sslvpn3s.internal.digitalocean.com
 sfo2-sslvpn4.internal.digitalocean.com
@@ -1570,6 +1575,7 @@ valentines.digitalocean.com
 valentinesg.digitalocean.com
 vector-databases.mcp.digitalocean.com
 video.assets.digitalocean.com
+vnpm.digitalocean.com
 vns3.digitalocean.com
 vns3m.digitalocean.com
 volumes.mcp.digitalocean.com
@@ -1656,6 +1662,7 @@ www.anchor.digitalocean.com
 www.api.digitalocean.com
 www.apporio-1.digitalocean.com
 www.assets.digitalocean.com
+www.atlasfelp.digitalocean.com
 www.avmbeefree.digitalocean.com
 www.beta.digitalocean.com
 www.blog.digitalocean.com
