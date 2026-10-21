@@ -107,6 +107,7 @@ ae26.nyc3-edge1.digitalocean.com
 ae26.nyc3-edge2.digitalocean.com
 ae27.ams3-edge2.digitalocean.com
 ae27.nyc1-edge1.digitalocean.com
+ae27.nyc3-edge1.digitalocean.com
 ae28.nyc1-edge2.digitalocean.com
 ae28.nyc2-edge2.digitalocean.com
 ae29.nyc2-edge1.digitalocean.com
