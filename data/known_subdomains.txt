@@ -24,6 +24,7 @@
 220-wellness.digitalocean.com
 220-wellnessi.digitalocean.com
 220-yellowleafz.digitalocean.com
+227.digitalocean.com
 227m.digitalocean.com
 244.98.63.45.digitalocean.com
 244m.98.63.45.digitalocean.com
@@ -156,6 +157,7 @@ ams2q.internal.digitalocean.com
 ams2s.sonar.digitalocean.com
 ams2vnc01.digitalocean.com
 ams2vnc01u.digitalocean.com
+ams3-edge1.digitalocean.com
 ams3-edge1c.digitalocean.com
 ams3-edge2.digitalocean.com
 ams3-edge2m.digitalocean.com
@@ -1086,6 +1088,7 @@ poweriq02.nyc3.internal.digitalocean.com
 poweriq03.ams3.internal.digitalocean.com
 poweriq04.sgp1.internal.digitalocean.com
 ppp-03-128.cyberia.n.digitalocean.com
+ppp-03-128a.cyberia.n.digitalocean.com
 ppp.digitalocean.com
 preprod.serverless.serverless-ingress-production.digitalocean.com
 prod-api01.nyc2.internal.digitalocean.com
@@ -1307,6 +1310,7 @@ prod-wanguard01.sfo2.internal.digitalocean.com
 prod-wanguard01.sgp1.internal.digitalocean.com
 prod-wanguard01.tor1.internal.digitalocean.com
 prod-wanguard01c.lon1.internal.digitalocean.com
+prod-wanguard01e.ams3.internal.digitalocean.com
 prod-wanguard01g.nyc3.internal.digitalocean.com
 prod-wanguard01m.sgp1.internal.digitalocean.com
 prod-wanguard01q.sfo2.internal.digitalocean.com
@@ -1703,6 +1707,7 @@ www.ideas.digitalocean.com
 www.insanbsi.digitalocean.com
 www.investors.digitalocean.com
 www.itindustry.digitalocean.com
+www.kloxo-ng-test.digitalocean.com
 www.kloxong-cloud001.digitalocean.com
 www.kloxong-cloud002.digitalocean.com
 www.kloxong-php8.digitalocean.com
