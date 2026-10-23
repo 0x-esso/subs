@@ -1580,6 +1580,7 @@ valentines.digitalocean.com
 valentinesg.digitalocean.com
 vector-databases.mcp.digitalocean.com
 video.assets.digitalocean.com
+vkdp.digitalocean.com
 vnpm.digitalocean.com
 vns3.digitalocean.com
 vns3m.digitalocean.com
