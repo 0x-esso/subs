@@ -387,6 +387,7 @@ dev-icinga2-satellite01.dev1.internal.digitalocean.com
 dev-icinga2-satellite01u.dev1.internal.digitalocean.com
 dev.digitalocean.com
 dev.internal.digitalocean.com
+dev0.internal.digitalocean.com
 dev1.internal.digitalocean.com
 deve.digitalocean.com
 developers.digitalocean.com
