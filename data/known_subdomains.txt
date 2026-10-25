@@ -458,6 +458,7 @@ en.digitalocean.com
 enavle.digitalocean.com
 entelolink.digitalocean.com
 entelolink5.digitalocean.com
+entelomail.digitalocean.com
 entelomailm.digitalocean.com
 enterpriseenrollment.digitalocean.com
 enterpriseenrollmentg.digitalocean.com
@@ -857,6 +858,7 @@ nbg1vnc01.digitalocean.com
 nc3.digitalocean.com
 nd2.digitalocean.com
 nd3.digitalocean.com
+nd3c.digitalocean.com
 nekw.digitalocean.com
 nes2.digitalocean.com
 netsmokeping.internal.digitalocean.com
