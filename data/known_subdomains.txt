@@ -1182,6 +1182,7 @@ prod-eventlog03.nyc2.internal.digitalocean.com
 prod-eventlog04.nyc2.internal.digitalocean.com
 prod-eventlog04i.nyc2.internal.digitalocean.com
 prod-graphite-metrics01.nyc2.internal.digitalocean.com
+prod-graphite-metrics01c.nyc2.internal.digitalocean.com
 prod-graphite-relay01.nyc2.internal.digitalocean.com
 prod-graphite-relay01k.nyc2.internal.digitalocean.com
 prod-graphite-relay02.nyc2.internal.digitalocean.com
