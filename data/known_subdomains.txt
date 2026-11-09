@@ -1351,6 +1351,7 @@ razerhackw.digitalocean.com
 redbook.digitalocean.com
 redirected.ams3.sonar.digitalocean.com
 redirecteds.ams3.sonar.digitalocean.com
+referrals.digitalocean.com
 registry.digitalocean.com
 repos-droplet.digitalocean.com
 repos-droplete.digitalocean.com
